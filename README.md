@@ -88,5 +88,30 @@ https://www.wikihow.com/Install-FFmpeg-on-Windows
 - Uses the ElevenLabs multilingual speech model.
 - Plays generated audio.
 - Saves generated speech as an MP3 file.
+
+
+# Technologies Used
+
+- Python
+- ElevenLabs API
+- Visual Studio Code
+- FFmpeg
+- GitHub for version control
+
+# Project Screenshot
+
+The following screenshot documents the original AI Text Reader application.
+
+![AI Text Reader Screenshot](AI-Text_Reader_Picture.png)
+
+
+# Future Enhancements
+
+- Add a graphical user interface.
+- Allow users to select different voices.
+- Support additional text file formats.
+- Improve error handling and input validation.
+- Add more audio customization options.
+
   
 
